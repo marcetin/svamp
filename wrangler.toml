@@ -1,0 +1,8 @@
+account_id = "XXXXXXXXXXXXXXXXXXXXXXXXXX"
+route = "XXXXXXXXXXXX/*"
+zone_id = "XXXXXXXXXXXXXXXXXXXXX"
+name = "XXXXXXXXXXXX"
+type = "webpack"
+workers_dev = true
+site = { bucket = "./workers-site"}
+compatibility_date = "2022-01-26"

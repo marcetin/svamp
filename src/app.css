@@ -1,0 +1,26 @@
+/* Write your global styles here, in PostCSS syntax */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Futura LT Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Futura LT Regular'), url('fonts/FuturaLT.woff') format('woff');
+    }
+@font-face {
+    font-family: 'Futura LT Book';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Futura LT Book'), url('fonts/FuturaLT-Book.woff') format('woff');
+    }
+    
+
+@font-face {
+    font-family: 'Futura LT Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Futura LT Light'), url('fonts/FuturaLT-Light.woff') format('woff');
+    }
+    
